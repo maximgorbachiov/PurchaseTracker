@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PurchaseTracker.Api", "PurchaseTracker.Api\PurchaseTracker.Api.csproj", "{DE07FAC8-7321-445C-B6A2-B290C79100E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE07FAC8-7321-445C-B6A2-B290C79100E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE07FAC8-7321-445C-B6A2-B290C79100E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE07FAC8-7321-445C-B6A2-B290C79100E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE07FAC8-7321-445C-B6A2-B290C79100E5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15208994-F702-48C1-8207-74C30373988D}
+	EndGlobalSection
+EndGlobal
